@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Creating a new branch for testing.
 Dev is working...
+This is a testing of clone.
